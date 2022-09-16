@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/Vinaba/Project4-ML/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Vinaba/Project4-ML/tree/main)<include a CircleCI status badge, here>
+<include [![CircleCI](https://dl.circleci.com/status-badge/img/gh/Vinaba/Project4-ML/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/Vinaba/Project4-ML/tree/main)>
 
 ## Project Overview
 
